@@ -8,6 +8,7 @@ This program is created to build undertanding of various gradient-descent based 
 
 # Still need to improve
 It's just a demo right now. I will reconstruct the whole program once all functions are settled down.
+**Note that I complement the 3D plot of optimization target function, which means that there are only two parameter need to be updated.**
 
+# Comments and suggestions are welcome! Have fun!
 
-Note that I complement the 3D plot of optimization target function, which means that there are only two parameter need to be updated.
